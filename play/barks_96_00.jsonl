@@ -105,3 +105,6 @@
 {"n":105,"kind":"place","name":"the Underpass south yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass south yard. Nia keeps the crate for the hit. 3 steps, arc on the left lane, open."}
 {"n":106,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south yard. arc left open. 4 steps. The crate stays for the hit."}
 {"n":107,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at the Underpass. Nobody past the south yard. We hit in 5 steps. Arc on the left lane, open."}
+{"n":108,"kind":"place","name":"the Underpass south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass south yard. Ivo keeps the crate for the hit. 6 steps, arc on the left lane, open."}
+{"n":109,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south yard. arc left open. 7 steps. The crate stays for the hit."}
+{"n":110,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at the Underpass. Nobody past the south yard. We hit in 8 steps. Arc on the left lane, open."}
