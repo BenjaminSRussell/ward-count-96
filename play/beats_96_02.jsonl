@@ -411,3 +411,6 @@
 {"n":411,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Kessler alley. Nobody past the west court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":412,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley west court. Ivo keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
 {"n":413,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west court. arc left open. 8 steps. The rebar stays for the hit."}
+{"n":414,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Kessler alley. Nobody past the west court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":415,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley west court. Bess keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
+{"n":416,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west court. arc left open. 4 steps. The rebar stays for the hit."}
