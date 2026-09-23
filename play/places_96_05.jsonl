@@ -92,3 +92,6 @@
 {"n":92,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, east court. arc left open. 6 steps. The drum stays for the hit."}
 {"n":93,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Kessler alley. Nobody past the east court. We hit in 7 steps. Arc on the left lane, open."}
 {"n":94,"kind":"place","name":"Kessler alley east court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley east court. Matt keeps the drum for the hit. 8 steps, arc on the left lane, open."}
+{"n":95,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east court. arc left open. 2 steps. The drum stays for the hit."}
+{"n":96,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Kessler alley. Nobody past the east court. We hit in 3 steps. Arc on the left lane, open."}
+{"n":97,"kind":"place","name":"Kessler alley east court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley east court. Nia keeps the drum for the hit. 4 steps, arc on the left lane, open."}
