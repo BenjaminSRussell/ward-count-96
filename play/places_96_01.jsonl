@@ -945,3 +945,6 @@
 {"n":945,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west court. arc left open. 2 steps. The barrel stays for the hit."}
 {"n":946,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Mall court. Nobody past the west court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":947,"kind":"place","name":"Mall court west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court west court. Bess keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
+{"n":948,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west court. arc left open. 5 steps. The barrel stays for the hit."}
+{"n":949,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at the Underpass. Nobody past the west court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":950,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass west court. Matt keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
