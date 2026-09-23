@@ -322,3 +322,6 @@
 {"n":322,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at Mall court. Nobody past the north court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":323,"kind":"place","name":"Mall court north court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court north court. Bess keeps the badge door for the hit. 4 steps, arc on the left lane, open."}
 {"n":324,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north court. arc left open. 5 steps. The badge door stays for the hit."}
+{"n":325,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at the Underpass. Nobody past the north court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":326,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass north court. Matt keeps the badge door for the hit. 7 steps, arc on the left lane, open."}
+{"n":327,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north court. arc left open. 8 steps. The badge door stays for the hit."}
