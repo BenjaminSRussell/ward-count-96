@@ -342,3 +342,6 @@
 {"n":342,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light north court. Matt keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
 {"n":343,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north court. arc left open. 4 steps. The lamp stays for the hit."}
 {"n":344,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Last Light. Nobody past the north court. We hit in 5 steps. Arc on the left lane, open."}
+{"n":345,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light north court. Nia keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
+{"n":346,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north court. arc left open. 7 steps. The lamp stays for the hit."}
+{"n":347,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Last Light. Nobody past the north court. We hit in 8 steps. Arc on the left lane, open."}
