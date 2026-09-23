@@ -130,3 +130,6 @@
 {"n":130,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Mall court. Nobody past the east court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":131,"kind":"place","name":"Mall court east court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court east court. Bess keeps the crate for the hit. 4 steps, arc on the left lane, open."}
 {"n":132,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east court. arc left open. 5 steps. The crate stays for the hit."}
+{"n":133,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at the Underpass. Nobody past the east court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":134,"kind":"place","name":"the Underpass east court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass east court. Matt keeps the crate for the hit. 7 steps, arc on the left lane, open."}
+{"n":135,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east court. arc left open. 8 steps. The crate stays for the hit."}
