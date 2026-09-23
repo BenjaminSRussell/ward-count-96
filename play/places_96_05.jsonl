@@ -617,3 +617,6 @@
 {"n":617,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north court. arc left open. 6 steps. The plywood stays for the hit."}
 {"n":618,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at the Lot. Nobody past the north court. We hit in 7 steps. Arc on the left lane, open."}
 {"n":619,"kind":"place","name":"the Lot north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot north court. Bess keeps the plywood for the hit. 8 steps, arc on the left lane, open."}
+{"n":620,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north court. arc left open. 2 steps. The plywood stays for the hit."}
+{"n":621,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Stockyard fence. Nobody past the north court. We hit in 3 steps. Arc on the left lane, open."}
+{"n":622,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence north court. Matt keeps the plywood for the hit. 4 steps, arc on the left lane, open."}
