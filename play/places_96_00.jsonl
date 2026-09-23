@@ -703,3 +703,6 @@
 {"n":703,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south yard. arc left open. 6 steps. The rope stays for the hit."}
 {"n":704,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at High line. Nobody past the south yard. We hit in 7 steps. Arc on the left lane, open."}
 {"n":705,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line south yard. Nia keeps the rope for the hit. 8 steps, arc on the left lane, open."}
+{"n":706,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south yard. arc left open. 2 steps. The rope stays for the hit."}
+{"n":707,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at High line. Nobody past the south yard. We hit in 3 steps. Arc on the left lane, open."}
+{"n":708,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line south yard. Ivo keeps the rope for the hit. 4 steps, arc on the left lane, open."}
