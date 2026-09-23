@@ -906,3 +906,6 @@
 {"n":906,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east court. arc left open. 2 steps. The shutter stays for the hit."}
 {"n":907,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at High line. Nobody past the east court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":908,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line east court. Ivo keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
+{"n":909,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east court. arc left open. 5 steps. The shutter stays for the hit."}
+{"n":910,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at High line. Nobody past the east court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":911,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east court. Bess keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
