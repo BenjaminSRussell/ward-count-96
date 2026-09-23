@@ -729,3 +729,6 @@
 {"n":729,"kind":"place","name":"Switchyard north court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard north court. Nia keeps the rope for the hit. 5 steps, arc on the left lane, open."}
 {"n":730,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north court. arc left open. 6 steps. The rope stays for the hit."}
 {"n":731,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Switchyard. Nobody past the north court. We hit in 7 steps. Arc on the left lane, open."}
+{"n":732,"kind":"place","name":"Switchyard north court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard north court. Ivo keeps the rope for the hit. 8 steps, arc on the left lane, open."}
+{"n":733,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north court. arc left open. 2 steps. The rope stays for the hit."}
+{"n":734,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Switchyard. Nobody past the north court. We hit in 3 steps. Arc on the left lane, open."}
