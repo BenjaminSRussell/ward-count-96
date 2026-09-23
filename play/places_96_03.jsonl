@@ -97,3 +97,6 @@
 {"n":97,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west court. arc left open. 6 steps. The drum stays for the hit."}
 {"n":98,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at the Lot. Nobody past the west court. We hit in 7 steps. Arc on the left lane, open."}
 {"n":99,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot west court. Bess keeps the drum for the hit. 8 steps, arc on the left lane, open."}
+{"n":100,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west court. arc left open. 2 steps. The drum stays for the hit."}
+{"n":101,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Stockyard fence. Nobody past the west court. We hit in 3 steps. Arc on the left lane, open."}
+{"n":102,"kind":"place","name":"Stockyard fence west court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence west court. Matt keeps the drum for the hit. 4 steps, arc on the left lane, open."}
