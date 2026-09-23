@@ -436,3 +436,6 @@
 {"n":436,"kind":"place","name":"High line south court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line south court. Ivo keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
 {"n":437,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south court. arc left open. 5 steps. The lamp stays for the hit."}
 {"n":438,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at High line. Nobody past the south court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":439,"kind":"place","name":"High line south court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south court. Bess keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":440,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south court. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":441,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Ward gate. Nobody past the south court. We hit in 2 steps. Arc on the left lane, open."}
