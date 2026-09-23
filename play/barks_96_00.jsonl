@@ -411,3 +411,6 @@
 {"n":411,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot south yard. Bess keeps the rebar for the hit. 8 steps, arc on the left lane, open."}
 {"n":412,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south yard. arc left open. 2 steps. The rebar stays for the hit."}
 {"n":413,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the south yard. We hit in 3 steps. Arc on the left lane, open."}
+{"n":414,"kind":"place","name":"Stockyard fence south yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence south yard. Matt keeps the rebar for the hit. 4 steps, arc on the left lane, open."}
+{"n":415,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south yard. arc left open. 5 steps. The rebar stays for the hit."}
+{"n":416,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Stockyard fence. Nobody past the south yard. We hit in 6 steps. Arc on the left lane, open."}
