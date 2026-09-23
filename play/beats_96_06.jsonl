@@ -401,3 +401,6 @@
 {"n":401,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Drydock. Nobody past the north court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":402,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock north court. Matt keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
 {"n":403,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north court. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":404,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Drydock. Nobody past the north court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":405,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock north court. Nia keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
+{"n":406,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north court. arc left open. 4 steps. The lamp stays for the hit."}
