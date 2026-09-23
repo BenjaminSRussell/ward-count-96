@@ -569,3 +569,6 @@
 {"n":569,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Clinic roof. Nobody past the south court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":570,"kind":"place","name":"Clinic roof south court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Clinic roof south court. Matt keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
 {"n":571,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south court. arc left open. 5 steps. The radio coil stays for the hit."}
+{"n":572,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Clinic roof. Nobody past the south court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":573,"kind":"place","name":"Clinic roof south court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof south court. Nia keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
+{"n":574,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south court. arc left open. 8 steps. The radio coil stays for the hit."}
