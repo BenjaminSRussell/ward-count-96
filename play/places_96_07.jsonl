@@ -90,3 +90,6 @@
 {"n":90,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north court. arc left open. 2 steps. The awning stays for the hit."}
 {"n":91,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at High line. Nobody past the north court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":92,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line north court. Ivo keeps the awning for the hit. 4 steps, arc on the left lane, open."}
+{"n":93,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north court. arc left open. 5 steps. The awning stays for the hit."}
+{"n":94,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at High line. Nobody past the north court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":95,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line north court. Bess keeps the awning for the hit. 7 steps, arc on the left lane, open."}
