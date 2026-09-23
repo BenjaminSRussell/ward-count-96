@@ -700,3 +700,6 @@
 {"n":700,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south yard. arc left open. 3 steps. The rope stays for the hit."}
 {"n":701,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at High line. Nobody past the south yard. We hit in 4 steps. Arc on the left lane, open."}
 {"n":702,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line south yard. Matt keeps the rope for the hit. 5 steps, arc on the left lane, open."}
+{"n":703,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south yard. arc left open. 6 steps. The rope stays for the hit."}
+{"n":704,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at High line. Nobody past the south yard. We hit in 7 steps. Arc on the left lane, open."}
+{"n":705,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line south yard. Nia keeps the rope for the hit. 8 steps, arc on the left lane, open."}
