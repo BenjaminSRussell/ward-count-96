@@ -575,3 +575,6 @@
 {"n":575,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at the Lot. Nobody past the south yard. We hit in 4 steps. Arc on the left lane, open."}
 {"n":576,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot south yard. Ivo keeps the rope for the hit. 5 steps, arc on the left lane, open."}
 {"n":577,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south yard. arc left open. 6 steps. The rope stays for the hit."}
+{"n":578,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at the Lot. Nobody past the south yard. We hit in 7 steps. Arc on the left lane, open."}
+{"n":579,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot south yard. Bess keeps the rope for the hit. 8 steps, arc on the left lane, open."}
+{"n":580,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south yard. arc left open. 2 steps. The rope stays for the hit."}
