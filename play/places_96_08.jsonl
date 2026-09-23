@@ -236,3 +236,6 @@
 {"n":236,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south court. arc left open. 7 steps. The crate stays for the hit."}
 {"n":237,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Switchyard. Nobody past the south court. We hit in 8 steps. Arc on the left lane, open."}
 {"n":238,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Switchyard south court. Matt keeps the crate for the hit. 2 steps, arc on the left lane, open."}
+{"n":239,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south court. arc left open. 3 steps. The crate stays for the hit."}
+{"n":240,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Switchyard. Nobody past the south court. We hit in 4 steps. Arc on the left lane, open."}
+{"n":241,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Switchyard south court. Nia keeps the crate for the hit. 5 steps, arc on the left lane, open."}
