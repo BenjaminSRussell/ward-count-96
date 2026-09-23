@@ -504,3 +504,6 @@
 {"n":504,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north court. arc left open. 3 steps. The radio coil stays for the hit."}
 {"n":505,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Mast yard. Nobody past the north court. We hit in 4 steps. Arc on the left lane, open."}
 {"n":506,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mast yard north court. Matt keeps the radio coil for the hit. 5 steps, arc on the left lane, open."}
+{"n":507,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north court. arc left open. 6 steps. The radio coil stays for the hit."}
+{"n":508,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Mast yard. Nobody past the north court. We hit in 7 steps. Arc on the left lane, open."}
+{"n":509,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard north court. Nia keeps the radio coil for the hit. 8 steps, arc on the left lane, open."}
