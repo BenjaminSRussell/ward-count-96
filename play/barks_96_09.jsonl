@@ -825,3 +825,6 @@
 {"n":825,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence west escape. Nia keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
 {"n":826,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west escape. arc left open. 8 steps. The hydrant stays for the hit."}
 {"n":827,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Stockyard fence. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":828,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence west escape. Ivo keeps the hydrant for the hit. 3 steps, arc on the left lane, open."}
+{"n":829,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west escape. arc left open. 4 steps. The hydrant stays for the hit."}
+{"n":830,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Stockyard fence. Nobody past the west escape. We hit in 5 steps. Arc on the left lane, open."}
