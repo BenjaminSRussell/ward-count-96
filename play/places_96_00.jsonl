@@ -538,3 +538,6 @@
 {"n":538,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south yard. arc left open. 2 steps. The rebar stays for the hit."}
 {"n":539,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at High line. Nobody past the south yard. We hit in 3 steps. Arc on the left lane, open."}
 {"n":540,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line south yard. Ivo keeps the rebar for the hit. 4 steps, arc on the left lane, open."}
+{"n":541,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south yard. arc left open. 5 steps. The rebar stays for the hit."}
+{"n":542,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at High line. Nobody past the south yard. We hit in 6 steps. Arc on the left lane, open."}
+{"n":543,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line south yard. Bess keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
