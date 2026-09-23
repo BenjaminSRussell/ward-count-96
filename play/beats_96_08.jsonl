@@ -900,3 +900,6 @@
 {"n":900,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Clinic roof. Nobody past the south court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":901,"kind":"place","name":"Clinic roof south court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Clinic roof south court. Nia keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
 {"n":902,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south court. arc left open. 8 steps. The shutter stays for the hit."}
+{"n":903,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Clinic roof. Nobody past the south court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":904,"kind":"place","name":"Clinic roof south court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof south court. Ivo keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
+{"n":905,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south court. arc left open. 4 steps. The shutter stays for the hit."}
