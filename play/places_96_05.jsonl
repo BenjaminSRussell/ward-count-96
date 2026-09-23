@@ -668,3 +668,6 @@
 {"n":668,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north court. arc left open. 8 steps. The plywood stays for the hit."}
 {"n":669,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Last Light. Nobody past the north court. We hit in 2 steps. Arc on the left lane, open."}
 {"n":670,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light north court. Matt keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
+{"n":671,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north court. arc left open. 4 steps. The plywood stays for the hit."}
+{"n":672,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Last Light. Nobody past the north court. We hit in 5 steps. Arc on the left lane, open."}
+{"n":673,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Last Light north court. Nia keeps the plywood for the hit. 6 steps, arc on the left lane, open."}
