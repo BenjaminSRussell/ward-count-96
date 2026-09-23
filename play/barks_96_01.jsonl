@@ -416,3 +416,6 @@
 {"n":416,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot south yard. Ivo keeps the radio coil for the hit. 5 steps, arc on the left lane, open."}
 {"n":417,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south yard. arc left open. 6 steps. The radio coil stays for the hit."}
 {"n":418,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at the Lot. Nobody past the south yard. We hit in 7 steps. Arc on the left lane, open."}
+{"n":419,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot south yard. Bess keeps the radio coil for the hit. 8 steps, arc on the left lane, open."}
+{"n":420,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south yard. arc left open. 2 steps. The radio coil stays for the hit."}
+{"n":421,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Stockyard fence. Nobody past the south yard. We hit in 3 steps. Arc on the left lane, open."}
