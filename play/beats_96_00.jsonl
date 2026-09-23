@@ -149,3 +149,6 @@
 {"n":149,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at the pier. Nobody past the south yard. We hit in 5 steps. Arc on the left lane, open."}
 {"n":150,"kind":"place","name":"the pier south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier south yard. Matt keeps the crate for the hit. 6 steps, arc on the left lane, open."}
 {"n":151,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south yard. arc left open. 7 steps. The crate stays for the hit."}
+{"n":152,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at the pier. Nobody past the south yard. We hit in 8 steps. Arc on the left lane, open."}
+{"n":153,"kind":"place","name":"the pier south yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier south yard. Nia keeps the crate for the hit. 2 steps, arc on the left lane, open."}
+{"n":154,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south yard. arc left open. 3 steps. The crate stays for the hit."}
