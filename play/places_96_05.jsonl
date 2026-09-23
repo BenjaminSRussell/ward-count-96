@@ -290,3 +290,6 @@
 {"n":290,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east court. arc left open. 8 steps. The badge door stays for the hit."}
 {"n":291,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Stockyard fence. Nobody past the east court. We hit in 2 steps. Arc on the left lane, open."}
 {"n":292,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence east court. Ivo keeps the badge door for the hit. 3 steps, arc on the left lane, open."}
+{"n":293,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east court. arc left open. 4 steps. The badge door stays for the hit."}
+{"n":294,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at Stockyard fence. Nobody past the east court. We hit in 5 steps. Arc on the left lane, open."}
+{"n":295,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence east court. Bess keeps the badge door for the hit. 6 steps, arc on the left lane, open."}
