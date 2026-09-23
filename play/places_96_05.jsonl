@@ -122,3 +122,6 @@
 {"n":122,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east court. arc left open. 8 steps. The drum stays for the hit."}
 {"n":123,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Stockyard fence. Nobody past the east court. We hit in 2 steps. Arc on the left lane, open."}
 {"n":124,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence east court. Ivo keeps the drum for the hit. 3 steps, arc on the left lane, open."}
+{"n":125,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east court. arc left open. 4 steps. The drum stays for the hit."}
+{"n":126,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Stockyard fence. Nobody past the east court. We hit in 5 steps. Arc on the left lane, open."}
+{"n":127,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence east court. Bess keeps the drum for the hit. 6 steps, arc on the left lane, open."}
