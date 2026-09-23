@@ -119,3 +119,6 @@
 {"n":119,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west court. arc left open. 8 steps. The crate stays for the hit."}
 {"n":120,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at the Underpass. Nobody past the west court. We hit in 2 steps. Arc on the left lane, open."}
 {"n":121,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Underpass west court. Nia keeps the crate for the hit. 3 steps, arc on the left lane, open."}
+{"n":122,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west court. arc left open. 4 steps. The crate stays for the hit."}
+{"n":123,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at the Underpass. Nobody past the west court. We hit in 5 steps. Arc on the left lane, open."}
+{"n":124,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Underpass west court. Ivo keeps the crate for the hit. 6 steps, arc on the left lane, open."}
