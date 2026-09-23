@@ -128,3 +128,6 @@
 {"n":128,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Last Light. Nobody past the south yard. We hit in 5 steps. Arc on the left lane, open."}
 {"n":129,"kind":"place","name":"Last Light south yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light south yard. Nia keeps the crate for the hit. 6 steps, arc on the left lane, open."}
 {"n":130,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south yard. arc left open. 7 steps. The crate stays for the hit."}
+{"n":131,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Last Light. Nobody past the south yard. We hit in 8 steps. Arc on the left lane, open."}
+{"n":132,"kind":"place","name":"Last Light south yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light south yard. Ivo keeps the crate for the hit. 2 steps, arc on the left lane, open."}
+{"n":133,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, south yard. arc left open. 3 steps. The crate stays for the hit."}
