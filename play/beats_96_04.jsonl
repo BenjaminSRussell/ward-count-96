@@ -532,3 +532,6 @@
 {"n":532,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Clinic roof. Nobody past the east court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":533,"kind":"place","name":"Clinic roof east court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof east court. Nia keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
 {"n":534,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, east court. arc left open. 8 steps. The rebar stays for the hit."}
+{"n":535,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Clinic roof. Nobody past the east court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":536,"kind":"place","name":"Clinic roof east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof east court. Ivo keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
+{"n":537,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east court. arc left open. 4 steps. The rebar stays for the hit."}
