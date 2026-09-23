@@ -897,3 +897,6 @@
 {"n":897,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south court. arc left open. 4 steps. The hydrant stays for the hit."}
 {"n":898,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Clinic roof. Nobody past the south court. We hit in 5 steps. Arc on the left lane, open."}
 {"n":899,"kind":"place","name":"Clinic roof south court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof south court. Bess keeps the hydrant for the hit. 6 steps, arc on the left lane, open."}
+{"n":900,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south court. arc left open. 7 steps. The hydrant stays for the hit."}
+{"n":901,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Switchyard. Nobody past the south court. We hit in 8 steps. Arc on the left lane, open."}
+{"n":902,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard south court. Matt keeps the hydrant for the hit. 2 steps, arc on the left lane, open."}
