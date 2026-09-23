@@ -53,3 +53,6 @@
 {"n":53,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east court. arc left open. 2 steps. The awning stays for the hit."}
 {"n":54,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Switchyard. Nobody past the east court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":55,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard east court. Bess keeps the awning for the hit. 4 steps, arc on the left lane, open."}
+{"n":56,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east court. arc left open. 5 steps. The awning stays for the hit."}
+{"n":57,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Drydock. Nobody past the east court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":58,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock east court. Matt keeps the awning for the hit. 7 steps, arc on the left lane, open."}
