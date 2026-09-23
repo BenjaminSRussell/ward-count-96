@@ -170,3 +170,6 @@
 {"n":170,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Mall court. Nobody past the south court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":171,"kind":"place","name":"Mall court south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court south court. Bess keeps the drum for the hit. 4 steps, arc on the left lane, open."}
 {"n":172,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south court. arc left open. 5 steps. The drum stays for the hit."}
+{"n":173,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at the Underpass. Nobody past the south court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":174,"kind":"place","name":"the Underpass south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass south court. Matt keeps the drum for the hit. 7 steps, arc on the left lane, open."}
+{"n":175,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south court. arc left open. 8 steps. The drum stays for the hit."}
