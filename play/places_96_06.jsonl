@@ -316,3 +316,6 @@
 {"n":316,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north court. arc left open. 5 steps. The lamp stays for the hit."}
 {"n":317,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at the Underpass. Nobody past the north court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":318,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass north court. Matt keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":319,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north court. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":320,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at the Underpass. Nobody past the north court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":321,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Underpass north court. Nia keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
