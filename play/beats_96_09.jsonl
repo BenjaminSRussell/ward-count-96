@@ -782,3 +782,6 @@
 {"n":782,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at High line. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
 {"n":783,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line west escape. Bess keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
 {"n":784,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west escape. arc left open. 8 steps. The plywood stays for the hit."}
+{"n":785,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Ward gate. Nobody past the west escape. We hit in 2 steps. Arc on the left lane, open."}
+{"n":786,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate west escape. Matt keeps the hydrant for the hit. 3 steps, arc on the left lane, open."}
+{"n":787,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west escape. arc left open. 4 steps. The hydrant stays for the hit."}
