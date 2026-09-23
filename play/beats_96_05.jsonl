@@ -246,3 +246,6 @@
 {"n":246,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at High line. Nobody past the east court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":247,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line east court. Bess keeps the drum for the hit. 7 steps, arc on the left lane, open."}
 {"n":248,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east court. arc left open. 8 steps. The drum stays for the hit."}
+{"n":249,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Ward gate. Nobody past the east court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":250,"kind":"place","name":"Ward gate east court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate east court. Matt keeps the badge door for the hit. 3 steps, arc on the left lane, open."}
+{"n":251,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east court. arc left open. 4 steps. The badge door stays for the hit."}
