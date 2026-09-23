@@ -182,3 +182,6 @@
 {"n":182,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south court. arc left open. 2 steps. The crate stays for the hit."}
 {"n":183,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Mast yard. Nobody past the south court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":184,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mast yard south court. Ivo keeps the crate for the hit. 4 steps, arc on the left lane, open."}
+{"n":185,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south court. arc left open. 5 steps. The crate stays for the hit."}
+{"n":186,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Mast yard. Nobody past the south court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":187,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard south court. Bess keeps the crate for the hit. 7 steps, arc on the left lane, open."}
