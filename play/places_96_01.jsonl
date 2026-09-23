@@ -183,3 +183,6 @@
 {"n":183,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south yard. arc left open. 3 steps. The drum stays for the hit."}
 {"n":184,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Switchyard. Nobody past the south yard. We hit in 4 steps. Arc on the left lane, open."}
 {"n":185,"kind":"place","name":"Switchyard south yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard south yard. Nia keeps the drum for the hit. 5 steps, arc on the left lane, open."}
+{"n":186,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south yard. arc left open. 6 steps. The drum stays for the hit."}
+{"n":187,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Switchyard. Nobody past the south yard. We hit in 7 steps. Arc on the left lane, open."}
+{"n":188,"kind":"place","name":"Switchyard south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard south yard. Ivo keeps the drum for the hit. 8 steps, arc on the left lane, open."}
