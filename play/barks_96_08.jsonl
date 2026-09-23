@@ -403,3 +403,6 @@
 {"n":403,"kind":"place","name":"Clinic roof south court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof south court. Bess keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
 {"n":404,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south court. arc left open. 7 steps. The lamp stays for the hit."}
 {"n":405,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Switchyard. Nobody past the south court. We hit in 8 steps. Arc on the left lane, open."}
+{"n":406,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Switchyard south court. Matt keeps the lamp for the hit. 2 steps, arc on the left lane, open."}
+{"n":407,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south court. arc left open. 3 steps. The lamp stays for the hit."}
+{"n":408,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Switchyard. Nobody past the south court. We hit in 4 steps. Arc on the left lane, open."}
