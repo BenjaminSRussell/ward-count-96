@@ -843,3 +843,6 @@
 {"n":843,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south court. arc left open. 6 steps. The hydrant stays for the hit."}
 {"n":844,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Mast yard. Nobody past the south court. We hit in 7 steps. Arc on the left lane, open."}
 {"n":845,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard south court. Nia keeps the hydrant for the hit. 8 steps, arc on the left lane, open."}
+{"n":846,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south court. arc left open. 2 steps. The hydrant stays for the hit."}
+{"n":847,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Mast yard. Nobody past the south court. We hit in 3 steps. Arc on the left lane, open."}
+{"n":848,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard south court. Ivo keeps the hydrant for the hit. 4 steps, arc on the left lane, open."}
