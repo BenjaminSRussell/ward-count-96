@@ -874,3 +874,6 @@
 {"n":874,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south yard. arc left open. 2 steps. The shutter stays for the hit."}
 {"n":875,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at High line. Nobody past the south yard. We hit in 3 steps. Arc on the left lane, open."}
 {"n":876,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line south yard. Ivo keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
+{"n":877,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south yard. arc left open. 5 steps. The shutter stays for the hit."}
+{"n":878,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at High line. Nobody past the south yard. We hit in 6 steps. Arc on the left lane, open."}
+{"n":879,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south yard. Bess keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
