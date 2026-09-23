@@ -433,3 +433,6 @@
 {"n":433,"kind":"place","name":"Stockyard fence west court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence west court. Nia keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
 {"n":434,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west court. arc left open. 8 steps. The rebar stays for the hit."}
 {"n":435,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Stockyard fence. Nobody past the west court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":436,"kind":"place","name":"Stockyard fence west court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence west court. Ivo keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
+{"n":437,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west court. arc left open. 4 steps. The rebar stays for the hit."}
+{"n":438,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Stockyard fence. Nobody past the west court. We hit in 5 steps. Arc on the left lane, open."}
