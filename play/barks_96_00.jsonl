@@ -744,3 +744,6 @@
 {"n":744,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot south yard. Ivo keeps the shutter for the hit. 5 steps, arc on the left lane, open."}
 {"n":745,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south yard. arc left open. 6 steps. The shutter stays for the hit."}
 {"n":746,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at the Lot. Nobody past the south yard. We hit in 7 steps. Arc on the left lane, open."}
+{"n":747,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot south yard. Bess keeps the shutter for the hit. 8 steps, arc on the left lane, open."}
+{"n":748,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south yard. arc left open. 2 steps. The shutter stays for the hit."}
+{"n":749,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Stockyard fence. Nobody past the south yard. We hit in 3 steps. Arc on the left lane, open."}
