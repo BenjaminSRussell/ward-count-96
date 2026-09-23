@@ -908,3 +908,6 @@
 {"n":908,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at the Lot. Nobody past the south yard. We hit in 8 steps. Arc on the left lane, open."}
 {"n":909,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot south yard. Nia keeps the awning for the hit. 2 steps, arc on the left lane, open."}
 {"n":910,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south yard. arc left open. 3 steps. The awning stays for the hit."}
+{"n":911,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at the Lot. Nobody past the south yard. We hit in 4 steps. Arc on the left lane, open."}
+{"n":912,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot south yard. Ivo keeps the awning for the hit. 5 steps, arc on the left lane, open."}
+{"n":913,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south yard. arc left open. 6 steps. The awning stays for the hit."}
