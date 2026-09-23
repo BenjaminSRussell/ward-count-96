@@ -679,3 +679,6 @@
 {"n":679,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Mast yard. Nobody past the south court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":680,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard south court. Ivo keeps the plywood for the hit. 4 steps, arc on the left lane, open."}
 {"n":681,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south court. arc left open. 5 steps. The plywood stays for the hit."}
+{"n":682,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Mast yard. Nobody past the south court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":683,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard south court. Bess keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
+{"n":684,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south court. arc left open. 8 steps. The plywood stays for the hit."}
