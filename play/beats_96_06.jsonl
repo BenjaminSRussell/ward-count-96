@@ -986,3 +986,6 @@
 {"n":986,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Mall court. Nobody past the north court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":987,"kind":"place","name":"Mall court north court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court north court. Bess keeps the awning for the hit. 4 steps, arc on the left lane, open."}
 {"n":988,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north court. arc left open. 5 steps. The awning stays for the hit."}
+{"n":989,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at the Underpass. Nobody past the north court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":990,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass north court. Matt keeps the awning for the hit. 7 steps, arc on the left lane, open."}
+{"n":991,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north court. arc left open. 8 steps. The awning stays for the hit."}
