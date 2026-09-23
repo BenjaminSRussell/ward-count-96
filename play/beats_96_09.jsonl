@@ -188,3 +188,6 @@
 {"n":188,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Mast yard. Nobody past the south court. We hit in 7 steps. Arc on the left lane, open."}
 {"n":189,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard south court. Nia keeps the drum for the hit. 8 steps, arc on the left lane, open."}
 {"n":190,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south court. arc left open. 2 steps. The drum stays for the hit."}
+{"n":191,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Mast yard. Nobody past the south court. We hit in 3 steps. Arc on the left lane, open."}
+{"n":192,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard south court. Ivo keeps the drum for the hit. 4 steps, arc on the left lane, open."}
+{"n":193,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south court. arc left open. 5 steps. The drum stays for the hit."}
