@@ -493,3 +493,6 @@
 {"n":493,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south yard. arc left open. 6 steps. The rebar stays for the hit."}
 {"n":494,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at the pier. Nobody past the south yard. We hit in 7 steps. Arc on the left lane, open."}
 {"n":495,"kind":"place","name":"the pier south yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier south yard. Bess keeps the rebar for the hit. 8 steps, arc on the left lane, open."}
+{"n":496,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south yard. arc left open. 2 steps. The rebar stays for the hit."}
+{"n":497,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Clinic roof. Nobody past the south yard. We hit in 3 steps. Arc on the left lane, open."}
+{"n":498,"kind":"place","name":"Clinic roof south yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof south yard. Matt keeps the rebar for the hit. 4 steps, arc on the left lane, open."}
