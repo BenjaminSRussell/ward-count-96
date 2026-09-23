@@ -351,3 +351,6 @@
 {"n":351,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Mast yard. Nobody past the south court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":352,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard south court. Ivo keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
 {"n":353,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south court. arc left open. 5 steps. The lamp stays for the hit."}
+{"n":354,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Mast yard. Nobody past the south court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":355,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard south court. Bess keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":356,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south court. arc left open. 8 steps. The lamp stays for the hit."}
