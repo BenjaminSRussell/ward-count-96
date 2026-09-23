@@ -609,3 +609,6 @@
 {"n":609,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south court. arc left open. 3 steps. The plywood stays for the hit."}
 {"n":610,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Ward gate. Nobody past the south court. We hit in 4 steps. Arc on the left lane, open."}
 {"n":611,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate south court. Bess keeps the plywood for the hit. 5 steps, arc on the left lane, open."}
+{"n":612,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south court. arc left open. 6 steps. The plywood stays for the hit."}
+{"n":613,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Kessler alley. Nobody past the south court. We hit in 7 steps. Arc on the left lane, open."}
+{"n":614,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley south court. Matt keeps the plywood for the hit. 8 steps, arc on the left lane, open."}
