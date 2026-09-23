@@ -577,3 +577,6 @@
 {"n":577,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard south court. Nia keeps the rebar for the hit. 5 steps, arc on the left lane, open."}
 {"n":578,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south court. arc left open. 6 steps. The rebar stays for the hit."}
 {"n":579,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Switchyard. Nobody past the south court. We hit in 7 steps. Arc on the left lane, open."}
+{"n":580,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard south court. Ivo keeps the rebar for the hit. 8 steps, arc on the left lane, open."}
+{"n":581,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south court. arc left open. 2 steps. The rebar stays for the hit."}
+{"n":582,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Switchyard. Nobody past the south court. We hit in 3 steps. Arc on the left lane, open."}
