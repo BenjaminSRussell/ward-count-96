@@ -11,3 +11,6 @@
 {"n":11,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard north court. Bess keeps the awning for the hit. 7 steps, arc on the left lane, open."}
 {"n":12,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north court. arc left open. 8 steps. The awning stays for the hit."}
 {"n":13,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Last Light. Nobody past the north court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":14,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light north court. Matt keeps the awning for the hit. 3 steps, arc on the left lane, open."}
+{"n":15,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north court. arc left open. 4 steps. The awning stays for the hit."}
+{"n":16,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Last Light. Nobody past the north court. We hit in 5 steps. Arc on the left lane, open."}
