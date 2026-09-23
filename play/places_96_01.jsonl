@@ -777,3 +777,6 @@
 {"n":777,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west court. arc left open. 2 steps. The hydrant stays for the hit."}
 {"n":778,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Mall court. Nobody past the west court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":779,"kind":"place","name":"Mall court west court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court west court. Bess keeps the hydrant for the hit. 4 steps, arc on the left lane, open."}
+{"n":780,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west court. arc left open. 5 steps. The hydrant stays for the hit."}
+{"n":781,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at the Underpass. Nobody past the west court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":782,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass west court. Matt keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
