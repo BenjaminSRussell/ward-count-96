@@ -276,3 +276,6 @@
 {"n":276,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east court. arc left open. 2 steps. The lamp stays for the hit."}
 {"n":277,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Stockyard fence. Nobody past the east court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":278,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Stockyard fence east court. Matt keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
+{"n":279,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east court. arc left open. 5 steps. The lamp stays for the hit."}
+{"n":280,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Stockyard fence. Nobody past the east court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":281,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Stockyard fence east court. Nia keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
