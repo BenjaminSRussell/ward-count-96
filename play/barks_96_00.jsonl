@@ -819,3 +819,6 @@
 {"n":819,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair south yard. Bess keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
 {"n":820,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south yard. arc left open. 4 steps. The shutter stays for the hit."}
 {"n":821,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at the pier. Nobody past the south yard. We hit in 5 steps. Arc on the left lane, open."}
+{"n":822,"kind":"place","name":"the pier south yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier south yard. Matt keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
+{"n":823,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south yard. arc left open. 7 steps. The shutter stays for the hit."}
+{"n":824,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at the pier. Nobody past the south yard. We hit in 8 steps. Arc on the left lane, open."}
