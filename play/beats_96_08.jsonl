@@ -927,3 +927,6 @@
 {"n":927,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Drydock. Nobody past the south court. We hit in 5 steps. Arc on the left lane, open."}
 {"n":928,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock south court. Ivo keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
 {"n":929,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south court. arc left open. 7 steps. The shutter stays for the hit."}
+{"n":930,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Drydock. Nobody past the south court. We hit in 8 steps. Arc on the left lane, open."}
+{"n":931,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock south court. Bess keeps the shutter for the hit. 2 steps, arc on the left lane, open."}
+{"n":932,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south court. arc left open. 3 steps. The shutter stays for the hit."}
