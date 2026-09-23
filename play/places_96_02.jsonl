@@ -617,3 +617,6 @@
 {"n":617,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west court. arc left open. 2 steps. The rope stays for the hit."}
 {"n":618,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Mall court. Nobody past the west court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":619,"kind":"place","name":"Mall court west court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court west court. Bess keeps the rope for the hit. 4 steps, arc on the left lane, open."}
+{"n":620,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west court. arc left open. 5 steps. The rope stays for the hit."}
+{"n":621,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at the Underpass. Nobody past the west court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":622,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass west court. Matt keeps the rope for the hit. 7 steps, arc on the left lane, open."}
