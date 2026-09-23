@@ -389,3 +389,6 @@
 {"n":389,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east court. arc left open. 2 steps. The badge door stays for the hit."}
 {"n":390,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at Switchyard. Nobody past the east court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":391,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard east court. Bess keeps the badge door for the hit. 4 steps, arc on the left lane, open."}
+{"n":392,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east court. arc left open. 5 steps. The badge door stays for the hit."}
+{"n":393,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Drydock. Nobody past the east court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":394,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock east court. Matt keeps the badge door for the hit. 7 steps, arc on the left lane, open."}
