@@ -532,3 +532,6 @@
 {"n":532,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Drydock. Nobody past the south yard. We hit in 2 steps. Arc on the left lane, open."}
 {"n":533,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock south yard. Nia keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
 {"n":534,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south yard. arc left open. 4 steps. The radio coil stays for the hit."}
+{"n":535,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Drydock. Nobody past the south yard. We hit in 5 steps. Arc on the left lane, open."}
+{"n":536,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock south yard. Ivo keeps the radio coil for the hit. 6 steps, arc on the left lane, open."}
+{"n":537,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south yard. arc left open. 7 steps. The radio coil stays for the hit."}
