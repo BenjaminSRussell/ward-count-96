@@ -305,3 +305,6 @@
 {"n":305,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west court. arc left open. 5 steps. The lamp stays for the hit."}
 {"n":306,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Mast yard. Nobody past the west court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":307,"kind":"place","name":"Mast yard west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard west court. Bess keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":308,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west court. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":309,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Last Light. Nobody past the west court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":310,"kind":"place","name":"Last Light west court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light west court. Matt keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
