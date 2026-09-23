@@ -43,3 +43,6 @@
 {"n":43,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south yard. arc left open. 4 steps. The crate stays for the hit."}
 {"n":44,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Ward gate. Nobody past the south yard. We hit in 5 steps. Arc on the left lane, open."}
 {"n":45,"kind":"place","name":"Ward gate south yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate south yard. Nia keeps the crate for the hit. 6 steps, arc on the left lane, open."}
+{"n":46,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south yard. arc left open. 7 steps. The crate stays for the hit."}
+{"n":47,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Ward gate. Nobody past the south yard. We hit in 8 steps. Arc on the left lane, open."}
+{"n":48,"kind":"place","name":"Ward gate south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Ward gate south yard. Ivo keeps the crate for the hit. 2 steps, arc on the left lane, open."}
