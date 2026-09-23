@@ -387,3 +387,6 @@
 {"n":387,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at the pier. Nobody past the south court. We hit in 4 steps. Arc on the left lane, open."}
 {"n":388,"kind":"place","name":"the pier south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier south court. Ivo keeps the lamp for the hit. 5 steps, arc on the left lane, open."}
 {"n":389,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south court. arc left open. 6 steps. The lamp stays for the hit."}
+{"n":390,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at the pier. Nobody past the south court. We hit in 7 steps. Arc on the left lane, open."}
+{"n":391,"kind":"place","name":"the pier south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier south court. Bess keeps the lamp for the hit. 8 steps, arc on the left lane, open."}
+{"n":392,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south court. arc left open. 2 steps. The lamp stays for the hit."}
