@@ -707,3 +707,6 @@
 {"n":707,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south court. arc left open. 2 steps. The rope stays for the hit."}
 {"n":708,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at South stair. Nobody past the south court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":709,"kind":"place","name":"South stair south court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair south court. Nia keeps the rope for the hit. 4 steps, arc on the left lane, open."}
+{"n":710,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south court. arc left open. 5 steps. The rope stays for the hit."}
+{"n":711,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at South stair. Nobody past the south court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":712,"kind":"place","name":"South stair south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair south court. Ivo keeps the rope for the hit. 7 steps, arc on the left lane, open."}
