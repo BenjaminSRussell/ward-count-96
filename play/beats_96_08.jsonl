@@ -75,3 +75,6 @@
 {"n":75,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Switchyard. Nobody past the south court. We hit in 7 steps. Arc on the left lane, open."}
 {"n":76,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard south court. Ivo keeps the barrel for the hit. 8 steps, arc on the left lane, open."}
 {"n":77,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south court. arc left open. 2 steps. The barrel stays for the hit."}
+{"n":78,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Switchyard. Nobody past the south court. We hit in 3 steps. Arc on the left lane, open."}
+{"n":79,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard south court. Bess keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
+{"n":80,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south court. arc left open. 5 steps. The barrel stays for the hit."}
