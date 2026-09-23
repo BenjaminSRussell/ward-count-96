@@ -4,3 +4,6 @@
 {"n":4,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at South stair. Nobody past the east court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":5,"kind":"place","name":"South stair east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair east court. Nia keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
 {"n":6,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east court. arc left open. 5 steps. The barrel stays for the hit."}
+{"n":7,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at South stair. Nobody past the east court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":8,"kind":"place","name":"South stair east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair east court. Ivo keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
+{"n":9,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east court. arc left open. 8 steps. The barrel stays for the hit."}
