@@ -457,3 +457,6 @@
 {"n":457,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence east court. Nia keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
 {"n":458,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east court. arc left open. 8 steps. The radio coil stays for the hit."}
 {"n":459,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Stockyard fence. Nobody past the east court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":460,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence east court. Ivo keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
+{"n":461,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east court. arc left open. 4 steps. The radio coil stays for the hit."}
+{"n":462,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Stockyard fence. Nobody past the east court. We hit in 5 steps. Arc on the left lane, open."}
