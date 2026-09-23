@@ -160,3 +160,6 @@
 {"n":160,"kind":"place","name":"Mast yard east court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard east court. Ivo keeps the drum for the hit. 4 steps, arc on the left lane, open."}
 {"n":161,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east court. arc left open. 5 steps. The drum stays for the hit."}
 {"n":162,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Mast yard. Nobody past the east court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":163,"kind":"place","name":"Mast yard east court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard east court. Bess keeps the drum for the hit. 7 steps, arc on the left lane, open."}
+{"n":164,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east court. arc left open. 8 steps. The drum stays for the hit."}
+{"n":165,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Last Light. Nobody past the east court. We hit in 2 steps. Arc on the left lane, open."}
