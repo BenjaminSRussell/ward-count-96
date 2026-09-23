@@ -362,3 +362,6 @@
 {"n":362,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west court. arc left open. 6 steps. The lamp stays for the hit."}
 {"n":363,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Switchyard. Nobody past the west court. We hit in 7 steps. Arc on the left lane, open."}
 {"n":364,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard west court. Ivo keeps the lamp for the hit. 8 steps, arc on the left lane, open."}
+{"n":365,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west court. arc left open. 2 steps. The lamp stays for the hit."}
+{"n":366,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Switchyard. Nobody past the west court. We hit in 3 steps. Arc on the left lane, open."}
+{"n":367,"kind":"place","name":"Switchyard west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard west court. Bess keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
