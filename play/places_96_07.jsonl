@@ -291,3 +291,6 @@
 {"n":291,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north court. arc left open. 7 steps. The badge door stays for the hit."}
 {"n":292,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at the Lot. Nobody past the north court. We hit in 8 steps. Arc on the left lane, open."}
 {"n":293,"kind":"place","name":"the Lot north court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot north court. Nia keeps the badge door for the hit. 2 steps, arc on the left lane, open."}
+{"n":294,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north court. arc left open. 3 steps. The badge door stays for the hit."}
+{"n":295,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at the Lot. Nobody past the north court. We hit in 4 steps. Arc on the left lane, open."}
+{"n":296,"kind":"place","name":"the Lot north court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot north court. Ivo keeps the badge door for the hit. 5 steps, arc on the left lane, open."}
