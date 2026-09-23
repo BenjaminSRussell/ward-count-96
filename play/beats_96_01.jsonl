@@ -616,3 +616,6 @@
 {"n":616,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at the Underpass. Nobody past the west court. We hit in 2 steps. Arc on the left lane, open."}
 {"n":617,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass west court. Nia keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
 {"n":618,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west court. arc left open. 4 steps. The plywood stays for the hit."}
+{"n":619,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at the Underpass. Nobody past the west court. We hit in 5 steps. Arc on the left lane, open."}
+{"n":620,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass west court. Ivo keeps the plywood for the hit. 6 steps, arc on the left lane, open."}
+{"n":621,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west court. arc left open. 7 steps. The plywood stays for the hit."}
