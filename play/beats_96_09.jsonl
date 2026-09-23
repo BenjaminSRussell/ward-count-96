@@ -428,3 +428,6 @@
 {"n":428,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Drydock. Nobody past the south court. We hit in 2 steps. Arc on the left lane, open."}
 {"n":429,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock south court. Nia keeps the badge door for the hit. 3 steps, arc on the left lane, open."}
 {"n":430,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south court. arc left open. 4 steps. The badge door stays for the hit."}
+{"n":431,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Drydock. Nobody past the south court. We hit in 5 steps. Arc on the left lane, open."}
+{"n":432,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock south court. Ivo keeps the badge door for the hit. 6 steps, arc on the left lane, open."}
+{"n":433,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south court. arc left open. 7 steps. The badge door stays for the hit."}
