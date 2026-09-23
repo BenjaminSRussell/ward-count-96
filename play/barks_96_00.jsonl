@@ -207,3 +207,6 @@
 {"n":207,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line south yard. Bess keeps the crate for the hit. 7 steps, arc on the left lane, open."}
 {"n":208,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south yard. arc left open. 8 steps. The crate stays for the hit."}
 {"n":209,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Ward gate. Nobody past the south yard. We hit in 2 steps. Arc on the left lane, open."}
+{"n":210,"kind":"place","name":"Ward gate south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate south yard. Matt keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
+{"n":211,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south yard. arc left open. 4 steps. The lamp stays for the hit."}
+{"n":212,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Ward gate. Nobody past the south yard. We hit in 5 steps. Arc on the left lane, open."}
