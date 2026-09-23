@@ -530,3 +530,6 @@
 {"n":530,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east court. arc left open. 3 steps. The radio coil stays for the hit."}
 {"n":531,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at the pier. Nobody past the east court. We hit in 4 steps. Arc on the left lane, open."}
 {"n":532,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the pier east court. Ivo keeps the radio coil for the hit. 5 steps, arc on the left lane, open."}
+{"n":533,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east court. arc left open. 6 steps. The radio coil stays for the hit."}
+{"n":534,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at the pier. Nobody past the east court. We hit in 7 steps. Arc on the left lane, open."}
+{"n":535,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier east court. Bess keeps the radio coil for the hit. 8 steps, arc on the left lane, open."}
