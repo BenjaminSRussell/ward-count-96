@@ -352,3 +352,6 @@
 {"n":352,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south court. arc left open. 3 steps. The badge door stays for the hit."}
 {"n":353,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Mast yard. Nobody past the south court. We hit in 4 steps. Arc on the left lane, open."}
 {"n":354,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard south court. Matt keeps the badge door for the hit. 5 steps, arc on the left lane, open."}
+{"n":355,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south court. arc left open. 6 steps. The badge door stays for the hit."}
+{"n":356,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Mast yard. Nobody past the south court. We hit in 7 steps. Arc on the left lane, open."}
+{"n":357,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard south court. Nia keeps the badge door for the hit. 8 steps, arc on the left lane, open."}
