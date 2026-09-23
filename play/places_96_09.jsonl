@@ -631,3 +631,6 @@
 {"n":631,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west escape. arc left open. 2 steps. The plywood stays for the hit."}
 {"n":632,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Kessler alley. Nobody past the west escape. We hit in 3 steps. Arc on the left lane, open."}
 {"n":633,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Kessler alley west escape. Nia keeps the plywood for the hit. 4 steps, arc on the left lane, open."}
+{"n":634,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west escape. arc left open. 5 steps. The plywood stays for the hit."}
+{"n":635,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Kessler alley. Nobody past the west escape. We hit in 6 steps. Arc on the left lane, open."}
+{"n":636,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley west escape. Ivo keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
