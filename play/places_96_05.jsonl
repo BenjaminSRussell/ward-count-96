@@ -380,3 +380,6 @@
 {"n":380,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east court. arc left open. 7 steps. The badge door stays for the hit."}
 {"n":381,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Switchyard. Nobody past the east court. We hit in 8 steps. Arc on the left lane, open."}
 {"n":382,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard east court. Matt keeps the badge door for the hit. 2 steps, arc on the left lane, open."}
+{"n":383,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east court. arc left open. 3 steps. The badge door stays for the hit."}
+{"n":384,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Switchyard. Nobody past the east court. We hit in 4 steps. Arc on the left lane, open."}
+{"n":385,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard east court. Nia keeps the badge door for the hit. 5 steps, arc on the left lane, open."}
