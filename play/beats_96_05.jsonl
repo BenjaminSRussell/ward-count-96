@@ -132,3 +132,6 @@
 {"n":132,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Mall court. Nobody past the east court. We hit in 4 steps. Arc on the left lane, open."}
 {"n":133,"kind":"place","name":"Mall court east court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court east court. Nia keeps the drum for the hit. 5 steps, arc on the left lane, open."}
 {"n":134,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, east court. arc left open. 6 steps. The drum stays for the hit."}
+{"n":135,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Mall court. Nobody past the east court. We hit in 7 steps. Arc on the left lane, open."}
+{"n":136,"kind":"place","name":"Mall court east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court east court. Ivo keeps the drum for the hit. 8 steps, arc on the left lane, open."}
+{"n":137,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, east court. arc left open. 2 steps. The drum stays for the hit."}
