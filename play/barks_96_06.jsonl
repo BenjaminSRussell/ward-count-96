@@ -54,3 +54,6 @@
 {"n":54,"kind":"place","name":"Switchyard north court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard north court. Matt keeps the barrel for the hit. 2 steps, arc on the left lane, open."}
 {"n":55,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north court. arc left open. 3 steps. The barrel stays for the hit."}
 {"n":56,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Switchyard. Nobody past the north court. We hit in 4 steps. Arc on the left lane, open."}
+{"n":57,"kind":"place","name":"Switchyard north court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard north court. Nia keeps the barrel for the hit. 5 steps, arc on the left lane, open."}
+{"n":58,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north court. arc left open. 6 steps. The barrel stays for the hit."}
+{"n":59,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Switchyard. Nobody past the north court. We hit in 7 steps. Arc on the left lane, open."}
