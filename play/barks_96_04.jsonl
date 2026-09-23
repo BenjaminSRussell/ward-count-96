@@ -242,3 +242,6 @@
 {"n":242,"kind":"place","name":"Ward gate east court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate east court. Matt keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
 {"n":243,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east court. arc left open. 4 steps. The lamp stays for the hit."}
 {"n":244,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Ward gate. Nobody past the east court. We hit in 5 steps. Arc on the left lane, open."}
+{"n":245,"kind":"place","name":"Ward gate east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate east court. Nia keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
+{"n":246,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, east court. arc left open. 7 steps. The lamp stays for the hit."}
+{"n":247,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Ward gate. Nobody past the east court. We hit in 8 steps. Arc on the left lane, open."}
