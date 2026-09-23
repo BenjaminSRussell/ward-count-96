@@ -777,3 +777,6 @@
 {"n":777,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley north court. Nia keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
 {"n":778,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north court. arc left open. 5 steps. The shutter stays for the hit."}
 {"n":779,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Kessler alley. Nobody past the north court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":780,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley north court. Ivo keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
+{"n":781,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north court. arc left open. 8 steps. The shutter stays for the hit."}
+{"n":782,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Kessler alley. Nobody past the north court. We hit in 2 steps. Arc on the left lane, open."}
