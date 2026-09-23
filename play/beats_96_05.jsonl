@@ -561,3 +561,6 @@
 {"n":561,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Drydock. Nobody past the east court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":562,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock east court. Matt keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
 {"n":563,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east court. arc left open. 8 steps. The radio coil stays for the hit."}
+{"n":564,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Drydock. Nobody past the east court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":565,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock east court. Nia keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
+{"n":566,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east court. arc left open. 4 steps. The radio coil stays for the hit."}
