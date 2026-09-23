@@ -552,3 +552,6 @@
 {"n":552,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east court. arc left open. 5 steps. The rebar stays for the hit."}
 {"n":553,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Drydock. Nobody past the east court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":554,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock east court. Matt keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
+{"n":555,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east court. arc left open. 8 steps. The rebar stays for the hit."}
+{"n":556,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Drydock. Nobody past the east court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":557,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock east court. Nia keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
