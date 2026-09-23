@@ -256,3 +256,6 @@
 {"n":256,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Kessler alley. Nobody past the east court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":257,"kind":"place","name":"Kessler alley east court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley east court. Nia keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
 {"n":258,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east court. arc left open. 5 steps. The lamp stays for the hit."}
+{"n":259,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Kessler alley. Nobody past the east court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":260,"kind":"place","name":"Kessler alley east court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley east court. Ivo keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":261,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east court. arc left open. 8 steps. The lamp stays for the hit."}
