@@ -313,3 +313,6 @@
 {"n":313,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south court. arc left open. 6 steps. The badge door stays for the hit."}
 {"n":314,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at the Lot. Nobody past the south court. We hit in 7 steps. Arc on the left lane, open."}
 {"n":315,"kind":"place","name":"the Lot south court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot south court. Bess keeps the badge door for the hit. 8 steps, arc on the left lane, open."}
+{"n":316,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south court. arc left open. 2 steps. The badge door stays for the hit."}
+{"n":317,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Stockyard fence. Nobody past the south court. We hit in 3 steps. Arc on the left lane, open."}
+{"n":318,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Stockyard fence south court. Matt keeps the badge door for the hit. 4 steps, arc on the left lane, open."}
