@@ -959,3 +959,6 @@
 {"n":959,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north court. arc left open. 5 steps. The barrel stays for the hit."}
 {"n":960,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the north court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":961,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Stockyard fence north court. Nia keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
+{"n":962,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north court. arc left open. 8 steps. The barrel stays for the hit."}
+{"n":963,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Stockyard fence. Nobody past the north court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":964,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence north court. Ivo keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
