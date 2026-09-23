@@ -282,3 +282,6 @@
 {"n":282,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate south court. Matt keeps the badge door for the hit. 3 steps, arc on the left lane, open."}
 {"n":283,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south court. arc left open. 4 steps. The badge door stays for the hit."}
 {"n":284,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Ward gate. Nobody past the south court. We hit in 5 steps. Arc on the left lane, open."}
+{"n":285,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate south court. Nia keeps the badge door for the hit. 6 steps, arc on the left lane, open."}
+{"n":286,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south court. arc left open. 7 steps. The badge door stays for the hit."}
+{"n":287,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Ward gate. Nobody past the south court. We hit in 8 steps. Arc on the left lane, open."}
