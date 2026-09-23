@@ -528,3 +528,6 @@
 {"n":528,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south yard. arc left open. 5 steps. The radio coil stays for the hit."}
 {"n":529,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Drydock. Nobody past the south yard. We hit in 6 steps. Arc on the left lane, open."}
 {"n":530,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock south yard. Matt keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
+{"n":531,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south yard. arc left open. 8 steps. The radio coil stays for the hit."}
+{"n":532,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Drydock. Nobody past the south yard. We hit in 2 steps. Arc on the left lane, open."}
+{"n":533,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock south yard. Nia keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
