@@ -246,3 +246,6 @@
 {"n":246,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Kessler alley. Nobody past the west court. We hit in 2 steps. Arc on the left lane, open."}
 {"n":247,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley west court. Bess keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
 {"n":248,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west court. arc left open. 4 steps. The lamp stays for the hit."}
+{"n":249,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at the Lot. Nobody past the west court. We hit in 5 steps. Arc on the left lane, open."}
+{"n":250,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot west court. Matt keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
+{"n":251,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west court. arc left open. 7 steps. The lamp stays for the hit."}
