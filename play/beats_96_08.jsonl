@@ -144,3 +144,6 @@
 {"n":144,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Stockyard fence. Nobody past the south court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":145,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence south court. Nia keeps the crate for the hit. 7 steps, arc on the left lane, open."}
 {"n":146,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south court. arc left open. 8 steps. The crate stays for the hit."}
+{"n":147,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Stockyard fence. Nobody past the south court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":148,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence south court. Ivo keeps the crate for the hit. 3 steps, arc on the left lane, open."}
+{"n":149,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south court. arc left open. 4 steps. The crate stays for the hit."}
