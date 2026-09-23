@@ -156,3 +156,6 @@
 {"n":156,"kind":"place","name":"the pier south yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier south yard. Ivo keeps the crate for the hit. 5 steps, arc on the left lane, open."}
 {"n":157,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south yard. arc left open. 6 steps. The crate stays for the hit."}
 {"n":158,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at the pier. Nobody past the south yard. We hit in 7 steps. Arc on the left lane, open."}
+{"n":159,"kind":"place","name":"the pier south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier south yard. Bess keeps the crate for the hit. 8 steps, arc on the left lane, open."}
+{"n":160,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south yard. arc left open. 2 steps. The crate stays for the hit."}
+{"n":161,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Clinic roof. Nobody past the south yard. We hit in 3 steps. Arc on the left lane, open."}
