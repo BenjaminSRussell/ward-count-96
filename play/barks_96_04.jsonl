@@ -347,3 +347,6 @@
 {"n":347,"kind":"place","name":"South stair east court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair east court. Bess keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
 {"n":348,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east court. arc left open. 4 steps. The lamp stays for the hit."}
 {"n":349,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at the pier. Nobody past the east court. We hit in 5 steps. Arc on the left lane, open."}
+{"n":350,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier east court. Matt keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
+{"n":351,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east court. arc left open. 7 steps. The lamp stays for the hit."}
+{"n":352,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at the pier. Nobody past the east court. We hit in 8 steps. Arc on the left lane, open."}
