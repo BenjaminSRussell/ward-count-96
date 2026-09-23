@@ -556,3 +556,6 @@
 {"n":556,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard east court. Ivo keeps the radio coil for the hit. 8 steps, arc on the left lane, open."}
 {"n":557,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east court. arc left open. 2 steps. The radio coil stays for the hit."}
 {"n":558,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Switchyard. Nobody past the east court. We hit in 3 steps. Arc on the left lane, open."}
+{"n":559,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard east court. Bess keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
+{"n":560,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east court. arc left open. 5 steps. The radio coil stays for the hit."}
+{"n":561,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Drydock. Nobody past the east court. We hit in 6 steps. Arc on the left lane, open."}
