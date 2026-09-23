@@ -16,3 +16,6 @@
 {"n":16,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard south court. Ivo keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
 {"n":17,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south court. arc left open. 5 steps. The barrel stays for the hit."}
 {"n":18,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Mast yard. Nobody past the south court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":19,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard south court. Bess keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
+{"n":20,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south court. arc left open. 8 steps. The barrel stays for the hit."}
+{"n":21,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Last Light. Nobody past the south court. We hit in 2 steps. Arc on the left lane, open."}
