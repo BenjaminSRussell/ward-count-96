@@ -995,3 +995,6 @@
 {"n":995,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south court. arc left open. 3 steps. The awning stays for the hit."}
 {"n":996,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Mall court. Nobody past the south court. We hit in 4 steps. Arc on the left lane, open."}
 {"n":997,"kind":"place","name":"Mall court south court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mall court south court. Nia keeps the awning for the hit. 5 steps, arc on the left lane, open."}
+{"n":998,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south court. arc left open. 6 steps. The awning stays for the hit."}
+{"n":999,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Mall court. Nobody past the south court. We hit in 7 steps. Arc on the left lane, open."}
+{"n":1000,"kind":"place","name":"Mall court south court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mall court south court. Ivo keeps the awning for the hit. 8 steps, arc on the left lane, open."}
