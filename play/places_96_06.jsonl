@@ -238,3 +238,6 @@
 {"n":238,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north court. arc left open. 4 steps. The crate stays for the hit."}
 {"n":239,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Drydock. Nobody past the north court. We hit in 5 steps. Arc on the left lane, open."}
 {"n":240,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock north court. Ivo keeps the crate for the hit. 6 steps, arc on the left lane, open."}
+{"n":241,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north court. arc left open. 7 steps. The crate stays for the hit."}
+{"n":242,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Drydock. Nobody past the north court. We hit in 8 steps. Arc on the left lane, open."}
+{"n":243,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock north court. Bess keeps the crate for the hit. 2 steps, arc on the left lane, open."}
