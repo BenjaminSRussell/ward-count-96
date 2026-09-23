@@ -494,3 +494,6 @@
 {"n":494,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at the Underpass. Nobody past the north court. We hit in 8 steps. Arc on the left lane, open."}
 {"n":495,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass north court. Bess keeps the rebar for the hit. 2 steps, arc on the left lane, open."}
 {"n":496,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north court. arc left open. 3 steps. The rebar stays for the hit."}
+{"n":497,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Mast yard. Nobody past the north court. We hit in 4 steps. Arc on the left lane, open."}
+{"n":498,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mast yard north court. Matt keeps the rebar for the hit. 5 steps, arc on the left lane, open."}
+{"n":499,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north court. arc left open. 6 steps. The rebar stays for the hit."}
