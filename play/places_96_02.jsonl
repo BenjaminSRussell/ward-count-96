@@ -200,3 +200,6 @@
 {"n":200,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west court. arc left open. 5 steps. The crate stays for the hit."}
 {"n":201,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Drydock. Nobody past the west court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":202,"kind":"place","name":"Drydock west court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock west court. Matt keeps the crate for the hit. 7 steps, arc on the left lane, open."}
+{"n":203,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west court. arc left open. 8 steps. The crate stays for the hit."}
+{"n":204,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Drydock. Nobody past the west court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":205,"kind":"place","name":"Drydock west court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock west court. Nia keeps the crate for the hit. 3 steps, arc on the left lane, open."}
