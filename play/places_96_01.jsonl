@@ -822,3 +822,6 @@
 {"n":822,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, west court. arc left open. 5 steps. The hydrant stays for the hit."}
 {"n":823,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at South stair. Nobody past the west court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":824,"kind":"place","name":"South stair west court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair west court. Ivo keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
+{"n":825,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west court. arc left open. 8 steps. The hydrant stays for the hit."}
+{"n":826,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at South stair. Nobody past the west court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":827,"kind":"place","name":"South stair west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair west court. Bess keeps the hydrant for the hit. 3 steps, arc on the left lane, open."}
