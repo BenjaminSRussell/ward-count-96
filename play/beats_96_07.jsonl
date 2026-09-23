@@ -904,3 +904,6 @@
 {"n":904,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Switchyard. Nobody past the south court. We hit in 4 steps. Arc on the left lane, open."}
 {"n":905,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard south court. Nia keeps the hydrant for the hit. 5 steps, arc on the left lane, open."}
 {"n":906,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, south court. arc left open. 6 steps. The hydrant stays for the hit."}
+{"n":907,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Switchyard. Nobody past the south court. We hit in 7 steps. Arc on the left lane, open."}
+{"n":908,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard south court. Ivo keeps the hydrant for the hit. 8 steps, arc on the left lane, open."}
+{"n":909,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south court. arc left open. 2 steps. The hydrant stays for the hit."}
