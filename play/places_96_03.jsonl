@@ -427,3 +427,6 @@
 {"n":427,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west court. arc left open. 7 steps. The radio coil stays for the hit."}
 {"n":428,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at the Lot. Nobody past the west court. We hit in 8 steps. Arc on the left lane, open."}
 {"n":429,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot west court. Nia keeps the radio coil for the hit. 2 steps, arc on the left lane, open."}
+{"n":430,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west court. arc left open. 3 steps. The radio coil stays for the hit."}
+{"n":431,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at the Lot. Nobody past the west court. We hit in 4 steps. Arc on the left lane, open."}
+{"n":432,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot west court. Ivo keeps the radio coil for the hit. 5 steps, arc on the left lane, open."}
