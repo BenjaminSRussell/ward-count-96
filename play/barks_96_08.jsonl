@@ -814,3 +814,6 @@
 {"n":814,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence south court. Matt keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
 {"n":815,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south court. arc left open. 5 steps. The shutter stays for the hit."}
 {"n":816,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Stockyard fence. Nobody past the south court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":817,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence south court. Nia keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
+{"n":818,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south court. arc left open. 8 steps. The shutter stays for the hit."}
+{"n":819,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Stockyard fence. Nobody past the south court. We hit in 2 steps. Arc on the left lane, open."}
