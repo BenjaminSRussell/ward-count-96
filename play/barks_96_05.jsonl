@@ -916,3 +916,6 @@
 {"n":916,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line north court. Ivo keeps the hydrant for the hit. 4 steps, arc on the left lane, open."}
 {"n":917,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north court. arc left open. 5 steps. The hydrant stays for the hit."}
 {"n":918,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at High line. Nobody past the north court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":919,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north court. Bess keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
+{"n":920,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north court. arc left open. 8 steps. The hydrant stays for the hit."}
+{"n":921,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Ward gate. Nobody past the north court. We hit in 2 steps. Arc on the left lane, open."}
