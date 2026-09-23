@@ -583,3 +583,6 @@
 {"n":583,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south yard. arc left open. 5 steps. The rope stays for the hit."}
 {"n":584,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Stockyard fence. Nobody past the south yard. We hit in 6 steps. Arc on the left lane, open."}
 {"n":585,"kind":"place","name":"Stockyard fence south yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence south yard. Nia keeps the rope for the hit. 7 steps, arc on the left lane, open."}
+{"n":586,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south yard. arc left open. 8 steps. The rope stays for the hit."}
+{"n":587,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Stockyard fence. Nobody past the south yard. We hit in 2 steps. Arc on the left lane, open."}
+{"n":588,"kind":"place","name":"Stockyard fence south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence south yard. Ivo keeps the rope for the hit. 3 steps, arc on the left lane, open."}
