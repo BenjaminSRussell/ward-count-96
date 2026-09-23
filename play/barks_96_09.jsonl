@@ -549,3 +549,6 @@
 {"n":549,"kind":"place","name":"South stair south court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair south court. Nia keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
 {"n":550,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south court. arc left open. 5 steps. The radio coil stays for the hit."}
 {"n":551,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at South stair. Nobody past the south court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":552,"kind":"place","name":"South stair south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair south court. Ivo keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
+{"n":553,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south court. arc left open. 8 steps. The radio coil stays for the hit."}
+{"n":554,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at South stair. Nobody past the south court. We hit in 2 steps. Arc on the left lane, open."}
