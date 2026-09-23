@@ -144,3 +144,6 @@
 {"n":144,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at the Underpass. Nobody past the east court. We hit in 2 steps. Arc on the left lane, open."}
 {"n":145,"kind":"place","name":"the Underpass east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass east court. Nia keeps the drum for the hit. 3 steps, arc on the left lane, open."}
 {"n":146,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east court. arc left open. 4 steps. The drum stays for the hit."}
+{"n":147,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at the Underpass. Nobody past the east court. We hit in 5 steps. Arc on the left lane, open."}
+{"n":148,"kind":"place","name":"the Underpass east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass east court. Ivo keeps the drum for the hit. 6 steps, arc on the left lane, open."}
+{"n":149,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east court. arc left open. 7 steps. The drum stays for the hit."}
