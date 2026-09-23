@@ -597,3 +597,6 @@
 {"n":597,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north court. arc left open. 5 steps. The radio coil stays for the hit."}
 {"n":598,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at High line. Nobody past the north court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":599,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north court. Bess keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
+{"n":600,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north court. arc left open. 8 steps. The radio coil stays for the hit."}
+{"n":601,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Ward gate. Nobody past the south court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":602,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate south court. Matt keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
