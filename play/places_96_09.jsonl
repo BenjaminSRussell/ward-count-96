@@ -10,3 +10,6 @@
 {"n":10,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south court. arc left open. 4 steps. The awning stays for the hit."}
 {"n":11,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at the Underpass. Nobody past the south court. We hit in 5 steps. Arc on the left lane, open."}
 {"n":12,"kind":"place","name":"the Underpass south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass south court. Ivo keeps the awning for the hit. 6 steps, arc on the left lane, open."}
+{"n":13,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south court. arc left open. 7 steps. The awning stays for the hit."}
+{"n":14,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at the Underpass. Nobody past the south court. We hit in 8 steps. Arc on the left lane, open."}
+{"n":15,"kind":"place","name":"the Underpass south court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass south court. Bess keeps the awning for the hit. 2 steps, arc on the left lane, open."}
