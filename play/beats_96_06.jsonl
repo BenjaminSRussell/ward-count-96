@@ -923,3 +923,6 @@
 {"n":923,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at High line. Nobody past the north court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":924,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line north court. Ivo keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
 {"n":925,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north court. arc left open. 5 steps. The shutter stays for the hit."}
+{"n":926,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at High line. Nobody past the north court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":927,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line north court. Bess keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
+{"n":928,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north court. arc left open. 8 steps. The shutter stays for the hit."}
