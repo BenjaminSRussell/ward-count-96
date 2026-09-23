@@ -523,3 +523,6 @@
 {"n":523,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south court. arc left open. 6 steps. The radio coil stays for the hit."}
 {"n":524,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Mast yard. Nobody past the south court. We hit in 7 steps. Arc on the left lane, open."}
 {"n":525,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mast yard south court. Nia keeps the radio coil for the hit. 8 steps, arc on the left lane, open."}
+{"n":526,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south court. arc left open. 2 steps. The radio coil stays for the hit."}
+{"n":527,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Mast yard. Nobody past the south court. We hit in 3 steps. Arc on the left lane, open."}
+{"n":528,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard south court. Ivo keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
