@@ -272,3 +272,6 @@
 {"n":272,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at the Underpass. Nobody past the south yard. We hit in 2 steps. Arc on the left lane, open."}
 {"n":273,"kind":"place","name":"the Underpass south yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass south yard. Nia keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
 {"n":274,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south yard. arc left open. 4 steps. The lamp stays for the hit."}
+{"n":275,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at the Underpass. Nobody past the south yard. We hit in 5 steps. Arc on the left lane, open."}
+{"n":276,"kind":"place","name":"the Underpass south yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass south yard. Ivo keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
+{"n":277,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south yard. arc left open. 7 steps. The lamp stays for the hit."}
