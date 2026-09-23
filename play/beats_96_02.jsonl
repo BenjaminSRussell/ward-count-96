@@ -294,3 +294,6 @@
 {"n":294,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at the Underpass. Nobody past the west court. We hit in 8 steps. Arc on the left lane, open."}
 {"n":295,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass west court. Bess keeps the lamp for the hit. 2 steps, arc on the left lane, open."}
 {"n":296,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west court. arc left open. 3 steps. The lamp stays for the hit."}
+{"n":297,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Mast yard. Nobody past the west court. We hit in 4 steps. Arc on the left lane, open."}
+{"n":298,"kind":"place","name":"Mast yard west court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mast yard west court. Matt keeps the lamp for the hit. 5 steps, arc on the left lane, open."}
+{"n":299,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, west court. arc left open. 6 steps. The lamp stays for the hit."}
