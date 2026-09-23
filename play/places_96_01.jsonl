@@ -993,3 +993,6 @@
 {"n":993,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, west court. arc left open. 8 steps. The barrel stays for the hit."}
 {"n":994,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at South stair. Nobody past the west court. We hit in 2 steps. Arc on the left lane, open."}
 {"n":995,"kind":"place","name":"South stair west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair west court. Bess keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
+{"n":996,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west court. arc left open. 4 steps. The barrel stays for the hit."}
+{"n":997,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at the pier. Nobody past the west court. We hit in 5 steps. Arc on the left lane, open."}
+{"n":998,"kind":"place","name":"the pier west court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier west court. Matt keeps the barrel for the hit. 6 steps, arc on the left lane, open."}
