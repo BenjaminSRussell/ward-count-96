@@ -887,3 +887,6 @@
 {"n":887,"kind":"place","name":"High line west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line west court. Bess keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
 {"n":888,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west court. arc left open. 8 steps. The hydrant stays for the hit."}
 {"n":889,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Ward gate. Nobody past the west court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":890,"kind":"place","name":"Ward gate west court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate west court. Matt keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
+{"n":891,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west court. arc left open. 4 steps. The barrel stays for the hit."}
+{"n":892,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Ward gate. Nobody past the west court. We hit in 5 steps. Arc on the left lane, open."}
