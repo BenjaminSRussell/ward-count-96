@@ -4,3 +4,6 @@
 {"n":4,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south court. arc left open. 5 steps. The awning stays for the hit."}
 {"n":5,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at the Underpass. Nobody past the south court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":6,"kind":"place","name":"the Underpass south court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass south court. Matt keeps the awning for the hit. 7 steps, arc on the left lane, open."}
+{"n":7,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south court. arc left open. 8 steps. The awning stays for the hit."}
+{"n":8,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at the Underpass. Nobody past the south court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":9,"kind":"place","name":"the Underpass south court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass south court. Nia keeps the awning for the hit. 3 steps, arc on the left lane, open."}
