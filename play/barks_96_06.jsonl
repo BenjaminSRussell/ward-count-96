@@ -936,3 +936,6 @@
 {"n":936,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate north court. Ivo keeps the awning for the hit. 2 steps, arc on the left lane, open."}
 {"n":937,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north court. arc left open. 3 steps. The awning stays for the hit."}
 {"n":938,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Ward gate. Nobody past the north court. We hit in 4 steps. Arc on the left lane, open."}
+{"n":939,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate north court. Bess keeps the awning for the hit. 5 steps, arc on the left lane, open."}
+{"n":940,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north court. arc left open. 6 steps. The awning stays for the hit."}
+{"n":941,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Kessler alley. Nobody past the north court. We hit in 7 steps. Arc on the left lane, open."}
