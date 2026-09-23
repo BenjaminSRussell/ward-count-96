@@ -27,3 +27,6 @@
 {"n":27,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at the pier. Nobody past the east court. We hit in 4 steps. Arc on the left lane, open."}
 {"n":28,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier east court. Ivo keeps the awning for the hit. 5 steps, arc on the left lane, open."}
 {"n":29,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east court. arc left open. 6 steps. The awning stays for the hit."}
+{"n":30,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at the pier. Nobody past the east court. We hit in 7 steps. Arc on the left lane, open."}
+{"n":31,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier east court. Bess keeps the awning for the hit. 8 steps, arc on the left lane, open."}
+{"n":32,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east court. arc left open. 2 steps. The awning stays for the hit."}
