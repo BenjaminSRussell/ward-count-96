@@ -66,3 +66,6 @@
 {"n":66,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Clinic roof. Nobody past the south court. We hit in 5 steps. Arc on the left lane, open."}
 {"n":67,"kind":"place","name":"Clinic roof south court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof south court. Bess keeps the barrel for the hit. 6 steps, arc on the left lane, open."}
 {"n":68,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south court. arc left open. 7 steps. The barrel stays for the hit."}
+{"n":69,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Switchyard. Nobody past the south court. We hit in 8 steps. Arc on the left lane, open."}
+{"n":70,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard south court. Matt keeps the barrel for the hit. 2 steps, arc on the left lane, open."}
+{"n":71,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south court. arc left open. 3 steps. The barrel stays for the hit."}
