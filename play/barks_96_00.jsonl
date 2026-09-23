@@ -378,3 +378,6 @@
 {"n":378,"kind":"place","name":"Ward gate south yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate south yard. Matt keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
 {"n":379,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south yard. arc left open. 4 steps. The rebar stays for the hit."}
 {"n":380,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Ward gate. Nobody past the south yard. We hit in 5 steps. Arc on the left lane, open."}
+{"n":381,"kind":"place","name":"Ward gate south yard","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Ward gate south yard. Nia keeps the rebar for the hit. 6 steps, arc on the left lane, open."}
+{"n":382,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south yard. arc left open. 7 steps. The rebar stays for the hit."}
+{"n":383,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Ward gate. Nobody past the south yard. We hit in 8 steps. Arc on the left lane, open."}
