@@ -348,3 +348,6 @@
 {"n":348,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Clinic roof. Nobody past the west court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":349,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof west court. Nia keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
 {"n":350,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west court. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":351,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Clinic roof. Nobody past the west court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":352,"kind":"place","name":"Clinic roof west court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof west court. Ivo keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
+{"n":353,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west court. arc left open. 4 steps. The lamp stays for the hit."}
