@@ -363,3 +363,6 @@
 {"n":363,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at the pier. Nobody past the east court. We hit in 4 steps. Arc on the left lane, open."}
 {"n":364,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier east court. Ivo keeps the badge door for the hit. 5 steps, arc on the left lane, open."}
 {"n":365,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east court. arc left open. 6 steps. The badge door stays for the hit."}
+{"n":366,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at the pier. Nobody past the east court. We hit in 7 steps. Arc on the left lane, open."}
+{"n":367,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier east court. Bess keeps the badge door for the hit. 8 steps, arc on the left lane, open."}
+{"n":368,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east court. arc left open. 2 steps. The badge door stays for the hit."}
