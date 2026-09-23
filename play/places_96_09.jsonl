@@ -463,3 +463,6 @@
 {"n":463,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south court. arc left open. 2 steps. The radio coil stays for the hit."}
 {"n":464,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the south court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":465,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley south court. Nia keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
+{"n":466,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south court. arc left open. 5 steps. The radio coil stays for the hit."}
+{"n":467,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Kessler alley. Nobody past the south court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":468,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley south court. Ivo keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
