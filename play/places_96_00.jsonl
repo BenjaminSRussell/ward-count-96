@@ -646,3 +646,6 @@
 {"n":646,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, south yard. arc left open. 5 steps. The rope stays for the hit."}
 {"n":647,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at South stair. Nobody past the south yard. We hit in 6 steps. Arc on the left lane, open."}
 {"n":648,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair south yard. Ivo keeps the rope for the hit. 7 steps, arc on the left lane, open."}
+{"n":649,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south yard. arc left open. 8 steps. The rope stays for the hit."}
+{"n":650,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at South stair. Nobody past the south yard. We hit in 2 steps. Arc on the left lane, open."}
+{"n":651,"kind":"place","name":"South stair south yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair south yard. Bess keeps the rope for the hit. 3 steps, arc on the left lane, open."}
