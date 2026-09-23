@@ -226,3 +226,6 @@
 {"n":226,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south court. arc left open. 3 steps. The drum stays for the hit."}
 {"n":227,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at the pier. Nobody past the south court. We hit in 4 steps. Arc on the left lane, open."}
 {"n":228,"kind":"place","name":"the pier south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier south court. Ivo keeps the drum for the hit. 5 steps, arc on the left lane, open."}
+{"n":229,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, south court. arc left open. 6 steps. The drum stays for the hit."}
+{"n":230,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at the pier. Nobody past the south court. We hit in 7 steps. Arc on the left lane, open."}
+{"n":231,"kind":"place","name":"the pier south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier south court. Bess keeps the drum for the hit. 8 steps, arc on the left lane, open."}
