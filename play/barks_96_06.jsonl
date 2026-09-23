@@ -570,3 +570,6 @@
 {"n":570,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock north court. Matt keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
 {"n":571,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north court. arc left open. 8 steps. The rebar stays for the hit."}
 {"n":572,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Drydock. Nobody past the north court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":573,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock north court. Nia keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
+{"n":574,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north court. arc left open. 4 steps. The rebar stays for the hit."}
+{"n":575,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Drydock. Nobody past the north court. We hit in 5 steps. Arc on the left lane, open."}
