@@ -753,3 +753,6 @@
 {"n":753,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Drydock. Nobody past the south court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":754,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock south court. Matt keeps the rope for the hit. 7 steps, arc on the left lane, open."}
 {"n":755,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south court. arc left open. 8 steps. The rope stays for the hit."}
+{"n":756,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Drydock. Nobody past the south court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":757,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock south court. Nia keeps the rope for the hit. 3 steps, arc on the left lane, open."}
+{"n":758,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south court. arc left open. 4 steps. The rope stays for the hit."}
