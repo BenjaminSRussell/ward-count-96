@@ -288,3 +288,6 @@
 {"n":288,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Stockyard fence. Nobody past the east court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":289,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence east court. Nia keeps the badge door for the hit. 7 steps, arc on the left lane, open."}
 {"n":290,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east court. arc left open. 8 steps. The badge door stays for the hit."}
+{"n":291,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Stockyard fence. Nobody past the east court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":292,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence east court. Ivo keeps the badge door for the hit. 3 steps, arc on the left lane, open."}
+{"n":293,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east court. arc left open. 4 steps. The badge door stays for the hit."}
