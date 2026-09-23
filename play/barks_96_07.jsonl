@@ -587,3 +587,6 @@
 {"n":587,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock north court. Bess keeps the radio coil for the hit. 2 steps, arc on the left lane, open."}
 {"n":588,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north court. arc left open. 3 steps. The radio coil stays for the hit."}
 {"n":589,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at High line. Nobody past the north court. We hit in 4 steps. Arc on the left lane, open."}
+{"n":590,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line north court. Matt keeps the radio coil for the hit. 5 steps, arc on the left lane, open."}
+{"n":591,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north court. arc left open. 6 steps. The radio coil stays for the hit."}
+{"n":592,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at High line. Nobody past the north court. We hit in 7 steps. Arc on the left lane, open."}
