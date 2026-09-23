@@ -394,3 +394,6 @@
 {"n":394,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south yard. arc left open. 5 steps. The rebar stays for the hit."}
 {"n":395,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Kessler alley. Nobody past the south yard. We hit in 6 steps. Arc on the left lane, open."}
 {"n":396,"kind":"place","name":"Kessler alley south yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley south yard. Ivo keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
+{"n":397,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south yard. arc left open. 8 steps. The rebar stays for the hit."}
+{"n":398,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Kessler alley. Nobody past the south yard. We hit in 2 steps. Arc on the left lane, open."}
+{"n":399,"kind":"place","name":"Kessler alley south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley south yard. Bess keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
