@@ -169,3 +169,6 @@
 {"n":169,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north court. arc left open. 5 steps. The crate stays for the hit."}
 {"n":170,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Mast yard. Nobody past the north court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":171,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard north court. Bess keeps the crate for the hit. 7 steps, arc on the left lane, open."}
+{"n":172,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north court. arc left open. 8 steps. The crate stays for the hit."}
+{"n":173,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Last Light. Nobody past the north court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":174,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light north court. Matt keeps the crate for the hit. 3 steps, arc on the left lane, open."}
