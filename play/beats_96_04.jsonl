@@ -16,3 +16,6 @@
 {"n":16,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at the pier. Nobody past the east court. We hit in 8 steps. Arc on the left lane, open."}
 {"n":17,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the pier east court. Nia keeps the barrel for the hit. 2 steps, arc on the left lane, open."}
 {"n":18,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east court. arc left open. 3 steps. The barrel stays for the hit."}
+{"n":19,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at the pier. Nobody past the east court. We hit in 4 steps. Arc on the left lane, open."}
+{"n":20,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier east court. Ivo keeps the barrel for the hit. 5 steps, arc on the left lane, open."}
+{"n":21,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east court. arc left open. 6 steps. The barrel stays for the hit."}
