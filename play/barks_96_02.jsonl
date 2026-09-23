@@ -787,3 +787,6 @@
 {"n":787,"kind":"place","name":"Mall court west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court west court. Bess keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
 {"n":788,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west court. arc left open. 5 steps. The shutter stays for the hit."}
 {"n":789,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at the Underpass. Nobody past the west court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":790,"kind":"place","name":"the Underpass west court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass west court. Matt keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
+{"n":791,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west court. arc left open. 8 steps. The shutter stays for the hit."}
+{"n":792,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at the Underpass. Nobody past the west court. We hit in 2 steps. Arc on the left lane, open."}
