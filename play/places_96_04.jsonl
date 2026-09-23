@@ -882,3 +882,6 @@
 {"n":882,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east court. arc left open. 6 steps. The shutter stays for the hit."}
 {"n":883,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Switchyard. Nobody past the east court. We hit in 7 steps. Arc on the left lane, open."}
 {"n":884,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard east court. Ivo keeps the shutter for the hit. 8 steps, arc on the left lane, open."}
+{"n":885,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east court. arc left open. 2 steps. The shutter stays for the hit."}
+{"n":886,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Switchyard. Nobody past the east court. We hit in 3 steps. Arc on the left lane, open."}
+{"n":887,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard east court. Bess keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
