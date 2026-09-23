@@ -184,3 +184,6 @@
 {"n":184,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south yard. arc left open. 5 steps. The crate stays for the hit."}
 {"n":185,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Drydock. Nobody past the south yard. We hit in 6 steps. Arc on the left lane, open."}
 {"n":186,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock south yard. Matt keeps the crate for the hit. 7 steps, arc on the left lane, open."}
+{"n":187,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south yard. arc left open. 8 steps. The crate stays for the hit."}
+{"n":188,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at Drydock. Nobody past the south yard. We hit in 2 steps. Arc on the left lane, open."}
+{"n":189,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock south yard. Nia keeps the crate for the hit. 3 steps, arc on the left lane, open."}
