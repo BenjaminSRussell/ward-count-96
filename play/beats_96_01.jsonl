@@ -1,0 +1,3 @@
+{"n":1,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Clinic roof. Nobody past the south yard. We hit in 3 steps. Arc on the left lane, open."}
+{"n":2,"kind":"place","name":"Clinic roof south yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof south yard. Matt keeps the awning for the hit. 4 steps, arc on the left lane, open."}
+{"n":3,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south yard. arc left open. 5 steps. The awning stays for the hit."}
