@@ -87,3 +87,6 @@
 {"n":87,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Drydock. Nobody past the south court. We hit in 5 steps. Arc on the left lane, open."}
 {"n":88,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock south court. Ivo keeps the barrel for the hit. 6 steps, arc on the left lane, open."}
 {"n":89,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south court. arc left open. 7 steps. The barrel stays for the hit."}
+{"n":90,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Drydock. Nobody past the south court. We hit in 8 steps. Arc on the left lane, open."}
+{"n":91,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock south court. Bess keeps the barrel for the hit. 2 steps, arc on the left lane, open."}
+{"n":92,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south court. arc left open. 3 steps. The barrel stays for the hit."}
