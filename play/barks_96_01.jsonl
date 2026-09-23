@@ -380,3 +380,6 @@
 {"n":380,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line south yard. Ivo keeps the badge door for the hit. 4 steps, arc on the left lane, open."}
 {"n":381,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south yard. arc left open. 5 steps. The badge door stays for the hit."}
 {"n":382,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at High line. Nobody past the south yard. We hit in 6 steps. Arc on the left lane, open."}
+{"n":383,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line south yard. Bess keeps the badge door for the hit. 7 steps, arc on the left lane, open."}
+{"n":384,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south yard. arc left open. 8 steps. The badge door stays for the hit."}
+{"n":385,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Ward gate. Nobody past the south yard. We hit in 2 steps. Arc on the left lane, open."}
