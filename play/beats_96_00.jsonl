@@ -776,3 +776,6 @@
 {"n":776,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at the Underpass. Nobody past the south yard. We hit in 2 steps. Arc on the left lane, open."}
 {"n":777,"kind":"place","name":"the Underpass south yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass south yard. Nia keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
 {"n":778,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south yard. arc left open. 4 steps. The shutter stays for the hit."}
+{"n":779,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at the Underpass. Nobody past the south yard. We hit in 5 steps. Arc on the left lane, open."}
+{"n":780,"kind":"place","name":"the Underpass south yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass south yard. Ivo keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
+{"n":781,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south yard. arc left open. 7 steps. The shutter stays for the hit."}
