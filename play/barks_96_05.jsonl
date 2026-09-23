@@ -652,3 +652,6 @@
 {"n":652,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass north court. Ivo keeps the plywood for the hit. 6 steps, arc on the left lane, open."}
 {"n":653,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north court. arc left open. 7 steps. The plywood stays for the hit."}
 {"n":654,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at the Underpass. Nobody past the north court. We hit in 8 steps. Arc on the left lane, open."}
+{"n":655,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass north court. Bess keeps the plywood for the hit. 2 steps, arc on the left lane, open."}
+{"n":656,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north court. arc left open. 3 steps. The plywood stays for the hit."}
+{"n":657,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Mast yard. Nobody past the north court. We hit in 4 steps. Arc on the left lane, open."}
