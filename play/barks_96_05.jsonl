@@ -268,3 +268,6 @@
 {"n":268,"kind":"place","name":"Kessler alley east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley east court. Ivo keeps the badge door for the hit. 7 steps, arc on the left lane, open."}
 {"n":269,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east court. arc left open. 8 steps. The badge door stays for the hit."}
 {"n":270,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at Kessler alley. Nobody past the east court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":271,"kind":"place","name":"Kessler alley east court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley east court. Bess keeps the badge door for the hit. 3 steps, arc on the left lane, open."}
+{"n":272,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east court. arc left open. 4 steps. The badge door stays for the hit."}
+{"n":273,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at the Lot. Nobody past the east court. We hit in 5 steps. Arc on the left lane, open."}
