@@ -406,3 +406,6 @@
 {"n":406,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south yard. arc left open. 3 steps. The rebar stays for the hit."}
 {"n":407,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at the Lot. Nobody past the south yard. We hit in 4 steps. Arc on the left lane, open."}
 {"n":408,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot south yard. Ivo keeps the rebar for the hit. 5 steps, arc on the left lane, open."}
+{"n":409,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south yard. arc left open. 6 steps. The rebar stays for the hit."}
+{"n":410,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at the Lot. Nobody past the south yard. We hit in 7 steps. Arc on the left lane, open."}
+{"n":411,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot south yard. Bess keeps the rebar for the hit. 8 steps, arc on the left lane, open."}
