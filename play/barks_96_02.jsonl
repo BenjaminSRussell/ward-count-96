@@ -85,3 +85,6 @@
 {"n":85,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot west court. Nia keeps the crate for the hit. 2 steps, arc on the left lane, open."}
 {"n":86,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west court. arc left open. 3 steps. The crate stays for the hit."}
 {"n":87,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at the Lot. Nobody past the west court. We hit in 4 steps. Arc on the left lane, open."}
+{"n":88,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot west court. Ivo keeps the crate for the hit. 5 steps, arc on the left lane, open."}
+{"n":89,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west court. arc left open. 6 steps. The crate stays for the hit."}
+{"n":90,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at the Lot. Nobody past the west court. We hit in 7 steps. Arc on the left lane, open."}
