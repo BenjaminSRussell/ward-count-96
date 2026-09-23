@@ -130,3 +130,6 @@
 {"n":130,"kind":"place","name":"the Lot south court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot south court. Matt keeps the crate for the hit. 6 steps, arc on the left lane, open."}
 {"n":131,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south court. arc left open. 7 steps. The crate stays for the hit."}
 {"n":132,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at the Lot. Nobody past the south court. We hit in 8 steps. Arc on the left lane, open."}
+{"n":133,"kind":"place","name":"the Lot south court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot south court. Nia keeps the crate for the hit. 2 steps, arc on the left lane, open."}
+{"n":134,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south court. arc left open. 3 steps. The crate stays for the hit."}
+{"n":135,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at the Lot. Nobody past the south court. We hit in 4 steps. Arc on the left lane, open."}
