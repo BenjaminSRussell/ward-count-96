@@ -197,3 +197,6 @@
 {"n":197,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at High line. Nobody past the south yard. We hit in 4 steps. Arc on the left lane, open."}
 {"n":198,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"High line south yard. Matt keeps the crate for the hit. 5 steps, arc on the left lane, open."}
 {"n":199,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south yard. arc left open. 6 steps. The crate stays for the hit."}
+{"n":200,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the crate at High line. Nobody past the south yard. We hit in 7 steps. Arc on the left lane, open."}
+{"n":201,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"High line south yard. Nia keeps the crate for the hit. 8 steps, arc on the left lane, open."}
+{"n":202,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south yard. arc left open. 2 steps. The crate stays for the hit."}
