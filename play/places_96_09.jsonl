@@ -646,3 +646,6 @@
 {"n":646,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west escape. arc left open. 3 steps. The plywood stays for the hit."}
 {"n":647,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at the Lot. Nobody past the west escape. We hit in 4 steps. Arc on the left lane, open."}
 {"n":648,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot west escape. Ivo keeps the plywood for the hit. 5 steps, arc on the left lane, open."}
+{"n":649,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west escape. arc left open. 6 steps. The plywood stays for the hit."}
+{"n":650,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at the Lot. Nobody past the west escape. We hit in 7 steps. Arc on the left lane, open."}
+{"n":651,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot west escape. Bess keeps the plywood for the hit. 8 steps, arc on the left lane, open."}
