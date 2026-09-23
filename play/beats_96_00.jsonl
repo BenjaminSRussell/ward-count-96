@@ -335,3 +335,6 @@
 {"n":335,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Clinic roof. Nobody past the south yard. We hit in 2 steps. Arc on the left lane, open."}
 {"n":336,"kind":"place","name":"Clinic roof south yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof south yard. Ivo keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
 {"n":337,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south yard. arc left open. 4 steps. The lamp stays for the hit."}
+{"n":338,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Clinic roof. Nobody past the south yard. We hit in 5 steps. Arc on the left lane, open."}
+{"n":339,"kind":"place","name":"Clinic roof south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof south yard. Bess keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
+{"n":340,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south yard. arc left open. 7 steps. The lamp stays for the hit."}
