@@ -336,3 +336,6 @@
 {"n":336,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard north court. Ivo keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
 {"n":337,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north court. arc left open. 5 steps. The lamp stays for the hit."}
 {"n":338,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Mast yard. Nobody past the north court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":339,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north court. Bess keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":340,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north court. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":341,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Last Light. Nobody past the north court. We hit in 2 steps. Arc on the left lane, open."}
