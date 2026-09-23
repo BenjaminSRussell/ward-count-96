@@ -967,3 +967,6 @@
 {"n":967,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north court. arc left open. 5 steps. The awning stays for the hit."}
 {"n":968,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Stockyard fence. Nobody past the north court. We hit in 6 steps. Arc on the left lane, open."}
 {"n":969,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence north court. Nia keeps the awning for the hit. 7 steps, arc on the left lane, open."}
+{"n":970,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north court. arc left open. 8 steps. The awning stays for the hit."}
+{"n":971,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Stockyard fence. Nobody past the north court. We hit in 2 steps. Arc on the left lane, open."}
+{"n":972,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence north court. Ivo keeps the awning for the hit. 3 steps, arc on the left lane, open."}
