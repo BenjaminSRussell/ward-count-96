@@ -751,3 +751,6 @@
 {"n":751,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Drydock. Nobody past the south court. We hit in 5 steps. Arc on the left lane, open."}
 {"n":752,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock south court. Ivo keeps the plywood for the hit. 6 steps, arc on the left lane, open."}
 {"n":753,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south court. arc left open. 7 steps. The plywood stays for the hit."}
+{"n":754,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Drydock. Nobody past the south court. We hit in 8 steps. Arc on the left lane, open."}
+{"n":755,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock south court. Bess keeps the plywood for the hit. 2 steps, arc on the left lane, open."}
+{"n":756,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south court. arc left open. 3 steps. The plywood stays for the hit."}
