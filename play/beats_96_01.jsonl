@@ -919,3 +919,6 @@
 {"n":919,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at the Lot. Nobody past the west court. We hit in 4 steps. Arc on the left lane, open."}
 {"n":920,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot west court. Ivo keeps the barrel for the hit. 5 steps, arc on the left lane, open."}
 {"n":921,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west court. arc left open. 6 steps. The barrel stays for the hit."}
+{"n":922,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at the Lot. Nobody past the west court. We hit in 7 steps. Arc on the left lane, open."}
+{"n":923,"kind":"place","name":"the Lot west court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot west court. Bess keeps the barrel for the hit. 8 steps, arc on the left lane, open."}
+{"n":924,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west court. arc left open. 2 steps. The barrel stays for the hit."}
