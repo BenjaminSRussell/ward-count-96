@@ -764,3 +764,6 @@
 {"n":764,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west court. arc left open. 2 steps. The shutter stays for the hit."}
 {"n":765,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Stockyard fence. Nobody past the west court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":766,"kind":"place","name":"Stockyard fence west court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence west court. Matt keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
+{"n":767,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west court. arc left open. 5 steps. The shutter stays for the hit."}
+{"n":768,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Stockyard fence. Nobody past the west court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":769,"kind":"place","name":"Stockyard fence west court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence west court. Nia keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
