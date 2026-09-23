@@ -739,3 +739,6 @@
 {"n":739,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at High line. Nobody past the east court. We hit in 3 steps. Arc on the left lane, open."}
 {"n":740,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line east court. Ivo keeps the rope for the hit. 4 steps, arc on the left lane, open."}
 {"n":741,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east court. arc left open. 5 steps. The rope stays for the hit."}
+{"n":742,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at High line. Nobody past the east court. We hit in 6 steps. Arc on the left lane, open."}
+{"n":743,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line east court. Bess keeps the rope for the hit. 7 steps, arc on the left lane, open."}
+{"n":744,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east court. arc left open. 8 steps. The rope stays for the hit."}
