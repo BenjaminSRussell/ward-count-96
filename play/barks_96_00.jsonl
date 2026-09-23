@@ -606,3 +606,6 @@
 {"n":606,"kind":"place","name":"the Underpass south yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass south yard. Matt keeps the rope for the hit. 7 steps, arc on the left lane, open."}
 {"n":607,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south yard. arc left open. 8 steps. The rope stays for the hit."}
 {"n":608,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at the Underpass. Nobody past the south yard. We hit in 2 steps. Arc on the left lane, open."}
+{"n":609,"kind":"place","name":"the Underpass south yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass south yard. Nia keeps the rope for the hit. 3 steps, arc on the left lane, open."}
+{"n":610,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south yard. arc left open. 4 steps. The rope stays for the hit."}
+{"n":611,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at the Underpass. Nobody past the south yard. We hit in 5 steps. Arc on the left lane, open."}
